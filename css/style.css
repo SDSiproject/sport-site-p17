@@ -393,7 +393,7 @@ ul {
  
 
 .dc-pic { 
-    background-image: url(/img/ds-shous.png);   
+    background-image: url(../img/ds-shous.png);   
     max-width: 1360px;
     height: 395px;
     display: flex;
@@ -546,12 +546,12 @@ ul {
 }
 
 .programm-lot1 {
-    background-image: url(/img/boarders_club.png);
+    background-image: url(../img/boarders_club.png);
 
 }
 
 .form-email {
-    background-image: url(/img/Sale-10.png);
+    background-image: url(../img/Sale-10.png);
 }
 
 .programm-lot h2 { 
